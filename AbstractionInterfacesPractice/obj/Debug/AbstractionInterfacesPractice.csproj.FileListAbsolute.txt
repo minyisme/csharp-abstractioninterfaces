@@ -1,0 +1,7 @@
+C:\Users\v-miyan\source\repos\AbstractionInterfacesPractice\AbstractionInterfacesPractice\obj\Debug\AbstractionInterfacesPractice.csprojAssemblyReference.cache
+C:\Users\v-miyan\source\repos\AbstractionInterfacesPractice\AbstractionInterfacesPractice\obj\Debug\AbstractionInterfacesPractice.csproj.CoreCompileInputs.cache
+C:\Users\v-miyan\source\repos\AbstractionInterfacesPractice\AbstractionInterfacesPractice\bin\Debug\AbstractionInterfacesPractice.exe.config
+C:\Users\v-miyan\source\repos\AbstractionInterfacesPractice\AbstractionInterfacesPractice\bin\Debug\AbstractionInterfacesPractice.exe
+C:\Users\v-miyan\source\repos\AbstractionInterfacesPractice\AbstractionInterfacesPractice\bin\Debug\AbstractionInterfacesPractice.pdb
+C:\Users\v-miyan\source\repos\AbstractionInterfacesPractice\AbstractionInterfacesPractice\obj\Debug\AbstractionInterfacesPractice.exe
+C:\Users\v-miyan\source\repos\AbstractionInterfacesPractice\AbstractionInterfacesPractice\obj\Debug\AbstractionInterfacesPractice.pdb

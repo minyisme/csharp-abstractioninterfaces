@@ -1,0 +1,17 @@
+C:\Users\v-miyan\source\repos\AbstractionInterfacesPractice\AbstractionInterfacesPractice.Tests\obj\Debug\AbstractionInterfacesPractice.Tests.csprojAssemblyReference.cache
+C:\Users\v-miyan\source\repos\AbstractionInterfacesPractice\AbstractionInterfacesPractice.Tests\obj\Debug\AbstractionInterfacesPractice.Tests.csproj.CoreCompileInputs.cache
+C:\Users\v-miyan\source\repos\AbstractionInterfacesPractice\AbstractionInterfacesPractice.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\v-miyan\source\repos\AbstractionInterfacesPractice\AbstractionInterfacesPractice.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\v-miyan\source\repos\AbstractionInterfacesPractice\AbstractionInterfacesPractice.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\v-miyan\source\repos\AbstractionInterfacesPractice\AbstractionInterfacesPractice.Tests\bin\Debug\AbstractionInterfacesPractice.Tests.dll
+C:\Users\v-miyan\source\repos\AbstractionInterfacesPractice\AbstractionInterfacesPractice.Tests\bin\Debug\AbstractionInterfacesPractice.Tests.pdb
+C:\Users\v-miyan\source\repos\AbstractionInterfacesPractice\AbstractionInterfacesPractice.Tests\bin\Debug\AbstractionInterfacesPractice.exe
+C:\Users\v-miyan\source\repos\AbstractionInterfacesPractice\AbstractionInterfacesPractice.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\v-miyan\source\repos\AbstractionInterfacesPractice\AbstractionInterfacesPractice.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\v-miyan\source\repos\AbstractionInterfacesPractice\AbstractionInterfacesPractice.Tests\bin\Debug\AbstractionInterfacesPractice.pdb
+C:\Users\v-miyan\source\repos\AbstractionInterfacesPractice\AbstractionInterfacesPractice.Tests\bin\Debug\AbstractionInterfacesPractice.exe.config
+C:\Users\v-miyan\source\repos\AbstractionInterfacesPractice\AbstractionInterfacesPractice.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\v-miyan\source\repos\AbstractionInterfacesPractice\AbstractionInterfacesPractice.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\v-miyan\source\repos\AbstractionInterfacesPractice\AbstractionInterfacesPractice.Tests\obj\Debug\AbstractionInterfacesPractice.Tests.csproj.CopyComplete
+C:\Users\v-miyan\source\repos\AbstractionInterfacesPractice\AbstractionInterfacesPractice.Tests\obj\Debug\AbstractionInterfacesPractice.Tests.dll
+C:\Users\v-miyan\source\repos\AbstractionInterfacesPractice\AbstractionInterfacesPractice.Tests\obj\Debug\AbstractionInterfacesPractice.Tests.pdb
